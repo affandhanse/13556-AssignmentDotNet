@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\bin\Debug\net6.0\Assignement1Day1.exe
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\bin\Debug\net6.0\Assignement1Day1.deps.json
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\bin\Debug\net6.0\Assignement1Day1.runtimeconfig.json
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\bin\Debug\net6.0\Assignement1Day1.dll
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\bin\Debug\net6.0\Assignement1Day1.pdb
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\Assignement1Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\Assignement1Day1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\Assignement1Day1.AssemblyInfo.cs
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\Assignement1Day1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\Assignement1Day1.dll
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\refint\Assignement1Day1.dll
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\Assignement1Day1.pdb
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\Assignement1Day1.genruntimeconfig.cache
+C:\Users\User\Desktop\dotnet training\Assignement1Day1\obj\Debug\net6.0\ref\Assignement1Day1.dll

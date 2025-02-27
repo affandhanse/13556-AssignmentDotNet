@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\Aissignment1Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\Aissignment1Day3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\Aissignment1Day3.AssemblyInfo.cs
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\Aissignment1Day3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\bin\Debug\net6.0\Aissignment1Day3.exe
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\bin\Debug\net6.0\Aissignment1Day3.deps.json
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\bin\Debug\net6.0\Aissignment1Day3.runtimeconfig.json
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\bin\Debug\net6.0\Aissignment1Day3.dll
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\bin\Debug\net6.0\Aissignment1Day3.pdb
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\Aissignment1Day3.dll
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\refint\Aissignment1Day3.dll
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\Aissignment1Day3.pdb
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\Aissignment1Day3.genruntimeconfig.cache
+C:\Users\User\Desktop\dotnet training\Aissignment1Day3\obj\Debug\net6.0\ref\Aissignment1Day3.dll

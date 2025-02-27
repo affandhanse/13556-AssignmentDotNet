@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\dotnet training\Assignment2day2\bin\Debug\net6.0\Assignment2day2.exe
+C:\Users\User\Desktop\dotnet training\Assignment2day2\bin\Debug\net6.0\Assignment2day2.deps.json
+C:\Users\User\Desktop\dotnet training\Assignment2day2\bin\Debug\net6.0\Assignment2day2.runtimeconfig.json
+C:\Users\User\Desktop\dotnet training\Assignment2day2\bin\Debug\net6.0\Assignment2day2.dll
+C:\Users\User\Desktop\dotnet training\Assignment2day2\bin\Debug\net6.0\Assignment2day2.pdb
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\Assignment2day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\Assignment2day2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\Assignment2day2.AssemblyInfo.cs
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\Assignment2day2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\Assignment2day2.dll
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\refint\Assignment2day2.dll
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\Assignment2day2.pdb
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\Assignment2day2.genruntimeconfig.cache
+C:\Users\User\Desktop\dotnet training\Assignment2day2\obj\Debug\net6.0\ref\Assignment2day2.dll
