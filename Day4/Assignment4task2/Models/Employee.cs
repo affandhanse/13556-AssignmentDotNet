@@ -18,8 +18,7 @@ namespace Assignment4task2.Models
         }
          public virtual void DisplayDetails()
         {
-            Console.WriteLine($"Employee Details are ::");
-            Console.WriteLine($"Employee Name :: {Name}\t Employee Salary :: {Salary}\n");
+            Console.WriteLine($"Employee Details are ::\n Employee Name :: {Name}\t Employee Salary :: {Salary}\n");
         }
 
     }

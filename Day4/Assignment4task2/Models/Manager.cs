@@ -17,9 +17,7 @@ namespace Assignment4task2.Models
 
         public override void  DisplayDetails()
         {
-            Console.WriteLine($"Manager Details are ::");
-            Console.WriteLine($"Manager Name :: {Name}\t Manager Salary :: {Salary}");
-            Console.WriteLine($"Manager Bonus is :: {Bonus}\n");
+            Console.WriteLine($"Manager Details are ::\n Manager Name :: {Name}\t Manager Salary :: {Salary}\n Manager Bonus is :: {Bonus}\n");
         }
     }
 }
