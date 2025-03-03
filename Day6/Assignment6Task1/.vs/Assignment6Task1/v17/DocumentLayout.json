@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\Day6\\Assignment6Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86791A3-3C97-44BF-BD35-FBCD6720D425}|Assignment6Task1.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\day6\\assignment6task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86791A3-3C97-44BF-BD35-FBCD6720D425}|Assignment6Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86791A3-3C97-44BF-BD35-FBCD6720D425}|Assignment6Task1.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\day6\\assignment6task1\\models\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86791A3-3C97-44BF-BD35-FBCD6720D425}|Assignment6Task1.csproj|solutionrelative:models\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\Day6\\Assignment6Task1\\Models\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\Day6\\Assignment6Task1\\Models\\CustomerManager.cs",
+              "RelativeToolTip": "Models\\CustomerManager.cs",
+              "ViewState": "AgIAAAwAAABAmZmZmZktwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:33:33.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\Day6\\Assignment6Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\Day6\\Assignment6Task1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAADgy8zMzMwmwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:53:06.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
