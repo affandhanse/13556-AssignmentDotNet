@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\bin\Debug\net6.0\AffanDhanseHackathon.exe
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\bin\Debug\net6.0\AffanDhanseHackathon.deps.json
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\bin\Debug\net6.0\AffanDhanseHackathon.runtimeconfig.json
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\bin\Debug\net6.0\AffanDhanseHackathon.dll
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\bin\Debug\net6.0\AffanDhanseHackathon.pdb
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.AssemblyInfo.cs
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.sourcelink.json
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.dll
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\refint\AffanDhanseHackathon.dll
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.pdb
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\AffanDhanseHackathon.genruntimeconfig.cache
+C:\Users\User\Desktop\dotnet training\13556-AssignmentDotNet\Hackathon\AffanDhanseHackathon\obj\Debug\net6.0\ref\AffanDhanseHackathon.dll
