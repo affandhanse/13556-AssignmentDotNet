@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\repo\\policyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:repo\\policyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\repo\\ipolicyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:repo\\ipolicyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPolicyRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\IPolicyRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\IPolicyRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\IPolicyRepo.cs",
+              "RelativeToolTip": "Repo\\IPolicyRepo.cs",
+              "ViewState": "AgIAAAcAAADA//////8TwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:45:20.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\PolicyRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\PolicyRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\PolicyRepo.cs",
+              "RelativeToolTip": "Repo\\PolicyRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:17:56.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAACAYWZmZmYSwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:34:21.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Exceptions",
     "\\Models",
     "\\Repo"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\Models\\PolicyDetails.cs",
   "PreviewInSolutionExplorer": false
 }
