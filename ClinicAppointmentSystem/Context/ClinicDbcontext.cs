@@ -23,6 +23,12 @@ namespace ClinicAppointmentSystem.Context
                .WithMany()
                .HasForeignKey(a => a.UserId)
                .OnDelete(DeleteBehavior.Cascade);
+
+            //builder.Entity<User>()
+            //   .HasOne(u => u.Doctor)
+            //   .WithMany()
+            //   .HasForeignKey(u => u.DoctorId)
+            //   .OnDelete(DeleteBehavior.SetNull);
         }
 
         public DbSet<Appointment> Appointments { get; set; }

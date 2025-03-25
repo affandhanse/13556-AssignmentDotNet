@@ -32,6 +32,10 @@ namespace ClinicAppointmentSystem.Service
         {
             return await _appointmentRepository.GetAllAppointmentsAsync(userId);
         }
+        public async Task<IEnumerable<Appointment>> GetAppointmentsByDoctorIdAsync(int doctorId)
+        {
+            return await _appointmentRepository.GetAppointmentsByDoctorIdAsync(doctorId);
+        }
 
         //public async Task<Appointment> GetAppointmentByIdAsync(int id)
         //{
@@ -56,6 +60,7 @@ namespace ClinicAppointmentSystem.Service
             }
             return appointment;
         }
+
 
         public Task<IEnumerable<Appointment>> GetAllAppointmentByIdAsync(string userId)
         {

@@ -10,5 +10,6 @@ namespace ClinicAppointmentSystem.Service
         Task<int> AddAppointmentAsync(Appointment appointment);
         Task<int> UpdateAppointmentStatusAsync(int id, string status);
         Task<int> DeleteAppointmentAsync(int id);
+        Task<IEnumerable<Appointment>> GetAppointmentsByDoctorIdAsync(int doctorId);
     }
 }

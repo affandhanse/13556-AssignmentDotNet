@@ -74,7 +74,7 @@ namespace Clinic_Appointment_System.Controllers
                         }
                         else if (roles.Contains("Doctor"))
                         {
-                            return RedirectToAction("GetAllByIdAppointments", "Appointment");
+                            return RedirectToAction("GetAppointmentsByDoctorId", "Appointment");
                         }
                     }
                         //return RedirectToAction("GetAllByIdAppointments", "Appointment");

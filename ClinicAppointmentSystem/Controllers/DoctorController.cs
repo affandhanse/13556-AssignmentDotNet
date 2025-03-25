@@ -63,6 +63,8 @@ namespace ClinicAppointmentSystem.Controllers
                     {
 
                         await _userManager.AddToRoleAsync(createdUser, Role.Doctor);
+                        createdUser.DoctorId = doctor.DoctorId;
+                        await _userManager.UpdateAsync(createdUser);
                         return RedirectToAction("GetAllDoctor");
                     }
                     foreach (var error in NewDoctorUser.Errors)

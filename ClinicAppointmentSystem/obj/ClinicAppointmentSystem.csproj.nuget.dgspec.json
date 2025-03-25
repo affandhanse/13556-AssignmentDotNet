@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj": {}
+    "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj": {
+    "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj",
         "projectName": "ClinicAppointmentSystem",
-        "projectPath": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\ClinicAppointmentSystem.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,5 +10,6 @@ namespace ClinicAppointmentSystem.Repository
         Task<Appointment> GetAppointmentByIdAsync(int id);
         Task<IEnumerable<Appointment>> GetAllAppointmentByIdAsync(string userId);
         Task<int> UpdateAppointmentStatusAsync(int id, string status);
+        Task<IEnumerable<Appointment>> GetAppointmentsByDoctorIdAsync(int doctorId);
     }
 }

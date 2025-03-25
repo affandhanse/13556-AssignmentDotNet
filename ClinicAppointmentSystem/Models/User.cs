@@ -13,7 +13,8 @@ namespace ClinicAppointmentSystem.Models
 
         [Required]
         public string LastName { get; set; }
-
+        public int? DoctorId { get; set; } // Nullable to allow for patients and admins
+        public Doctor Doctor { get; set; }
 
         //public ICollection<Appointment> Appointments { get; set; }
 

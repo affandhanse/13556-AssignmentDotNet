@@ -43,6 +43,12 @@ namespace ClinicAppointmentSystem.Repository
             //}
             //throw new NotImplementedException();
         }
+        public async Task<IEnumerable<Appointment>> GetAppointmentsByDoctorIdAsync(int doctorId)
+        {
+            return await _dbcontext.Appointments
+                .Where(a => a.DoctorId == doctorId)
+                .ToListAsync();
+        }
 
         public async Task<int> UpdateAppointmentStatusAsync(int id, string status)
         {

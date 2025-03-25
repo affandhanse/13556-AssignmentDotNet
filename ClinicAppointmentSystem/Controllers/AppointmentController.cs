@@ -2,6 +2,7 @@
 using ClinicAppointmentSystem.Models;
 using ClinicAppointmentSystem.Service;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -12,10 +13,15 @@ namespace ClinicAppointmentSystem.Controllers
     {
         private readonly IAppointmentService _appointmentService;
         private readonly IDoctorService _doctorService;
-        public AppointmentController (IAppointmentService appointmentService, IDoctorService doctorService )
+        readonly UserManager<User> _userManager;
+        readonly SignInManager<User> _signInManager;
+
+        public AppointmentController (IAppointmentService appointmentService, IDoctorService doctorService, UserManager<User> manager, SignInManager<User> signInManager)
         {
             _appointmentService = appointmentService;
             _doctorService = doctorService;
+            _userManager = manager;
+            _signInManager = signInManager;
         }
         public IActionResult Index()
         {
@@ -34,6 +40,28 @@ namespace ClinicAppointmentSystem.Controllers
             var appointments = await _appointmentService.GetAllAppointmentByIdAsync(UserId);
             return View(appointments);
 
+        }
+        [Authorize(Roles = "Doctor")]
+        [HttpGet]
+        public async Task<IActionResult> GetAppointmentsByDoctorIdAsync()
+        {
+            var UserId = HttpContext.Session.GetString("UserId");
+            if (string.IsNullOrEmpty(UserId))
+            {
+                return RedirectToAction("Login", "Account");
+            }
+            var user = await _userManager.FindByIdAsync(UserId);
+            if (user == null)
+            {
+                return NotFound("User  not found.");
+            }
+            int? doctorId = user.DoctorId;
+            if (!doctorId.HasValue)
+            {
+                return NotFound("Doctor ID not found for the user.");
+            }
+            var appointments = await _appointmentService.GetAppointmentsByDoctorIdAsync(doctorId.Value);
+            return View(appointments);
         }
         //public async Task<IActionResult> PatientAppointments()
         //{

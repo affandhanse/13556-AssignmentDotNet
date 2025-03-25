@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ClinicAppointmentSystem.Migrations
 {
     [DbContext(typeof(ClinicDbcontext))]
-    [Migration("20250323165535_newUpdateInitial1")]
-    partial class newUpdateInitial1
+    [Migration("20250325112159_updatedDoctorUserRelation")]
+    partial class updatedDoctorUserRelation
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -87,6 +87,9 @@ namespace ClinicAppointmentSystem.Migrations
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("DoctorId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Email")
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
@@ -137,6 +140,10 @@ namespace ClinicAppointmentSystem.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("DoctorId")
+                        .IsUnique()
+                        .HasFilter("[DoctorId] IS NOT NULL");
+
                     b.HasIndex("NormalizedEmail")
                         .HasDatabaseName("EmailIndex");
 
@@ -173,29 +180,6 @@ namespace ClinicAppointmentSystem.Migrations
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
                     b.ToTable("AspNetRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = "a76f06ef-4878-49cb-o7e2-6489cb3454ba",
-                            ConcurrencyStamp = "5be201f8-aaa6-47c6-8ccc-64f723f8daaf",
-                            Name = "Admin",
-                            NormalizedName = "ADMIN"
-                        },
-                        new
-                        {
-                            Id = "a76f06ef-4878-49cb-b8e2-6489cb3454ba",
-                            ConcurrencyStamp = "20482ccb-990d-42a6-b979-2f4605d28b9f",
-                            Name = "Patient",
-                            NormalizedName = "PATIENT"
-                        },
-                        new
-                        {
-                            Id = "a76f06ef-4878-49cb-c9e2-6489cb3454ba",
-                            ConcurrencyStamp = "38451c05-9217-4950-8d23-320ae4843c3a",
-                            Name = "Doctor",
-                            NormalizedName = "DOCTOR"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -283,13 +267,6 @@ namespace ClinicAppointmentSystem.Migrations
                     b.HasIndex("RoleId");
 
                     b.ToTable("AspNetUserRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            UserId = "a4e636da-e2f5-49eb-850f-b470e22812a9",
-                            RoleId = "a76f06ef-4878-49cb-o7e2-6489cb3454ba"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
@@ -328,6 +305,15 @@ namespace ClinicAppointmentSystem.Migrations
                     b.Navigation("Doctor");
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("ClinicAppointmentSystem.Models.User", b =>
+                {
+                    b.HasOne("ClinicAppointmentSystem.Models.Doctor", "Doctor")
+                        .WithOne("User")
+                        .HasForeignKey("ClinicAppointmentSystem.Models.User", "DoctorId");
+
+                    b.Navigation("Doctor");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -384,6 +370,9 @@ namespace ClinicAppointmentSystem.Migrations
             modelBuilder.Entity("ClinicAppointmentSystem.Models.Doctor", b =>
                 {
                     b.Navigation("Appointments");
+
+                    b.Navigation("User")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }
