@@ -18,10 +18,10 @@ namespace AffanDhanseHackathon.Utility
 
         private static void GetAppSettingsFile()
         {
-            var builder = new ConfigurationBuilder()//used to build configuration object from dataSource
+            var builder = new ConfigurationBuilder()
                         .SetBasePath(Directory.GetCurrentDirectory())//settting the path to applications current directory
                         .AddJsonFile("appsettings.json");//load the configuration setting from this json file
-            _iConfiguration = builder.Build();//compiling configuration into Iconfiguration
+            _iConfiguration = builder.Build();
         }
 
         public static string GetConnectionString()

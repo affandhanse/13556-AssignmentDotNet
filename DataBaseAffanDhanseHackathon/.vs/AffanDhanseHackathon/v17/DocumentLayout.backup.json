@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\repo\\policyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:repo\\policyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\repo\\ipolicyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:repo\\ipolicyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\models\\policytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:models\\policytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\models\\policydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:models\\policydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|c:\\users\\user\\desktop\\dotnet training\\affandhansehackathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7ABB3-CE15-44EA-8CF8-41DC4FFC206E}|AffanDhanseHackathon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PolicyType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Models\\PolicyType.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyType.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Models\\PolicyType.cs",
+              "RelativeToolTip": "Models\\PolicyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:53:19.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyDetails.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Models\\PolicyDetails.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyDetails.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Models\\PolicyDetails.cs",
+              "RelativeToolTip": "Models\\PolicyDetails.cs",
+              "ViewState": "AgIAABIAAADwmJmZmZk0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:11:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IPolicyRepo.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\IPolicyRepo.cs",
               "RelativeDocumentMoniker": "Repo\\IPolicyRepo.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\IPolicyRepo.cs",
               "RelativeToolTip": "Repo\\IPolicyRepo.cs",
-              "ViewState": "AgIAAAcAAADA//////8TwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAADwmZmZmZklwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T10:45:20.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PolicyRepo.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\PolicyRepo.cs",
               "RelativeDocumentMoniker": "Repo\\PolicyRepo.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Repo\\PolicyRepo.cs",
               "RelativeToolTip": "Repo\\PolicyRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAABA1szMzMwkwGoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T09:17:56.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\AffanDhanseHackathon\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

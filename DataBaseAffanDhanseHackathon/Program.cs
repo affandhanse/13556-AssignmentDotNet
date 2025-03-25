@@ -30,7 +30,7 @@ namespace AffanDhanseHackathon
                             Console.Write("Enter Policy Type (Life, Health, Vehicle, Property): ");
                             PolicyType type = (PolicyType)Enum.Parse(typeof(PolicyType), Console.ReadLine(), true);
 
-                            DateTime startDate = DateTime.Now;
+                            DateTime startDate = DateTime.Now.Date;
                             Console.Write("Enter End Date (yyyy-MM-dd): ");
                             DateTime endDate = DateTime.Parse(Console.ReadLine());
 
@@ -53,7 +53,7 @@ namespace AffanDhanseHackathon
                             Console.Write("Enter New Policy Type (Life, Health, Vehicle, Property): ");
                             PolicyType updateType = (PolicyType)Enum.Parse(typeof(PolicyType), Console.ReadLine(), true);
 
-                            DateTime updateStartDate = DateTime.Now;
+                            DateTime updateStartDate = DateTime.Now.Date;
 
                             Console.Write("Enter New End Date (yyyy-MM-dd): ");
                             DateTime updateEndDate = DateTime.Parse(Console.ReadLine());
@@ -65,10 +65,6 @@ namespace AffanDhanseHackathon
                                 policyRepo.UpdatePolicy(updatePolicyId, updatedPolicy);
                                 Console.WriteLine($"Policy with ID {updatePolicyId} updated successfully.");
                             }
-                            catch (SqlException ex)
-                            {
-                                Console.WriteLine($"Database Error: {ex.Message}");
-                            }
                             catch (PolicyNotFoundException ex)
                             {
                                 Console.WriteLine($"Error: {ex.Message}");
@@ -77,7 +73,6 @@ namespace AffanDhanseHackathon
                             {
                                 Console.WriteLine($"Error: {ex.Message}");
                             }
-                            break;
                             break;
                         case 3:
                         //DeletePolicy(); 
@@ -89,10 +84,6 @@ namespace AffanDhanseHackathon
                                 policyRepo.DeletePolicy(deletePolicyId);
                                 Console.WriteLine($"Policy with ID {deletePolicyId} deleted successfully.");
                             }
-                            catch (SqlException ex)
-                            {
-                                Console.WriteLine($"Database Error: {ex.Message}");
-                            }
                             catch (PolicyNotFoundException ex)
                             {
                                 Console.WriteLine($"Error: {ex.Message}");
@@ -101,7 +92,6 @@ namespace AffanDhanseHackathon
                             {
                                 Console.WriteLine($"Error: {ex.Message}");
                             }
-                            break;
                             break;
                         case 4:
                             List<PolicyDetails> allPolicies = policyRepo.GetAllPolicy();

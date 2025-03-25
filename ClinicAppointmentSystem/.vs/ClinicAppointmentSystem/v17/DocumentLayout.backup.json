@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\viewmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:viewmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\appointment\\getallbyidappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\appointment\\getallbyidappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\doctor\\adddoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\doctor\\adddoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\context\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:context\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\repository\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:repository\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\views\\appointment\\addappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\appointment\\addappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\service\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:service\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\clinicappointmentsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T09:01:30.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllByIdAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Appointment\\GetAllByIdAppointments.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\GetAllByIdAppointments.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Appointment\\GetAllByIdAppointments.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\GetAllByIdAppointments.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T01:43:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAGAAAAAAbmZmZmYFwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:45:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\ViewModel\\Login.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\ViewModel\\Login.cs",
+              "RelativeToolTip": "ViewModel\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T01:38:49.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADYAAACAy8zMzMwcwEoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:04:39.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAADYAAAAAtJmZmZkZwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:05:21.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:10:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Doctor\\AddDoctor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\AddDoctor.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Doctor\\AddDoctor.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\AddDoctor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T04:36:12.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClinicDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Context\\ClinicDbcontext.cs",
+              "RelativeDocumentMoniker": "Context\\ClinicDbcontext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Context\\ClinicDbcontext.cs",
+              "RelativeToolTip": "Context\\ClinicDbcontext.cs",
+              "ViewState": "AgIAAAsAAAAAmJmZmZklwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:52:55.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Repository\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Repository\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repository\\AppointmentRepository.cs",
+              "ViewState": "AgIAABoAAAAAMjMzM3MkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:45:37.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Repository\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Repository\\IAppointmentRepository.cs",
+              "RelativeToolTip": "Repository\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:55:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD4AAAC8MjMzMzMvwEYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:40:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAYAAAAAIAawCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T09:04:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T09:06:37.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "Service\\AppointmentService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:45:41.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Service\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Service\\IAppointmentService.cs",
+              "RelativeToolTip": "Service\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:57:00.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAABA//////8fwBgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:59:19.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:28:36.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T07:28:54.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T00:50:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Appointment\\AddAppointment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\AddAppointment.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Views\\Appointment\\AddAppointment.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\AddAppointment.cshtml",
+              "ViewState": "AgIAABoAAADQzMzMzAwswAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T00:43:11.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Service\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Service\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\ClinicAppointmentSystem\\Service\\IDoctorService.cs",
+              "RelativeToolTip": "Service\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:59:41.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿@model ClinicAppointmentSystem.ViewModel.Register
+
+@{
+    ViewData["Title"] = "Add Doctor";
+}
+
+<h2>Add Doctor</h2>
+
+<form asp-action="AddDoctor" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" required />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" required />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Specialty</label>
+        <input type="text" name="specialty" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" required />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input type="password" name="Password" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Confirm Password</label>
+        <input type="password" name="ConfirmPassword" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Add Doctor</button>
+</form>
+
+<!-- Validation Scripts -->
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

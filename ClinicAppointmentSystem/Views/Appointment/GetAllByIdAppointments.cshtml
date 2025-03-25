@@ -1,0 +1,48 @@
+﻿@model IEnumerable<ClinicAppointmentSystem.Models.Appointment>
+
+@{
+    ViewData["Title"] = "GetAllByIdAppointments";
+}
+
+<h1 class="text-center my-4">Get All Appointments</h1>
+
+<p class="text-right">
+    <a class="btn btn-primary" asp-action="AddAppointment">Create New</a>
+</p>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AppointmentDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Doctor)
+            </th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AppointmentDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Doctor.Name)
+                </td>
+                <td class="text-center">
+                    <a class="btn btn-warning btn-sm" asp-action="EditAppointmentStatus" asp-route-id="@item.AppointmentId">Edit</a> |
+                    <a class="btn btn-danger btn-sm" asp-action="DeleteAppointment" asp-route-id="@item.AppointmentId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
