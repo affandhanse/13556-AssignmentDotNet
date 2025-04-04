@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\views\\appointment\\getappointmentsbydoctorid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\appointment\\getappointmentsbydoctorid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\views\\appointment\\getappointmentsbydoctorid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:views\\appointment\\getappointmentsbydoctorid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\context\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250325110833_updatedDoctorUserRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{530473BC-B867-4CE3-8092-95A941C705D7}|ClinicAppointmentSystem.csproj|c:\\users\\user\\desktop\\dotnet training\\13556-assignmentdotnet\\clinicappointmentsystem\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,35 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAwwEYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:04:39.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Service\\AppointmentService.cs",
-              "RelativeDocumentMoniker": "Service\\AppointmentService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Service\\AppointmentService.cs",
-              "RelativeToolTip": "Service\\AppointmentService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:45:41.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserRoleSeedConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Configurations\\UserRoleSeedConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\UserRoleSeedConfiguration.cs",
@@ -170,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "GetAppointmentsByDoctorId.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Views\\Appointment\\GetAppointmentsByDoctorId.cshtml",
               "RelativeDocumentMoniker": "Views\\Appointment\\GetAppointmentsByDoctorId.cshtml",
@@ -183,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
@@ -196,7 +172,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAFAAAABQnpmZmZkwwEIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:05:21.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:16:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:10:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "Service\\AppointmentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:45:41.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:04:39.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20250325111120_updatedDoctorUserRelation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Migrations\\20250325111120_updatedDoctorUserRelation.cs",
               "RelativeDocumentMoniker": "Migrations\\20250325111120_updatedDoctorUserRelation.cs",
@@ -220,18 +259,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "Controllers\\DoctorController.cs",
-              "ViewState": "AgIAADQAAAAAcGZmZmYqwEIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:05:21.56Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 29,
               "Title": "20250325112159_updatedDoctorUserRelation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Migrations\\20250325112159_updatedDoctorUserRelation.cs",
@@ -244,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ClinicDbcontext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Context\\ClinicDbcontext.cs",
               "RelativeDocumentMoniker": "Context\\ClinicDbcontext.cs",
@@ -256,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RoleSeedConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Configurations\\RoleSeedConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\RoleSeedConfiguration.cs",
@@ -268,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -280,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "20250325110833_updatedDoctorUserRelation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Migrations\\20250325110833_updatedDoctorUserRelation.cs",
               "RelativeDocumentMoniker": "Migrations\\20250325110833_updatedDoctorUserRelation.cs",
@@ -292,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Models\\Appointment.cs",
@@ -301,30 +328,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T10:57:50.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:16:23.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\13556-AssignmentDotNet\\ClinicAppointmentSystem\\Models\\Doctor.cs",
-              "RelativeToolTip": "Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:10:19.607Z"
             },
             {
               "$type": "Document",

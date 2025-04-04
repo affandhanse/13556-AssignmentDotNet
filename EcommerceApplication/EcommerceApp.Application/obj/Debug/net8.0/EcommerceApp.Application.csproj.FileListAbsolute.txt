@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\bin\Debug\net8.0\EcommerceApp.Application.deps.json
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\bin\Debug\net8.0\EcommerceApp.Application.dll
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\bin\Debug\net8.0\EcommerceApp.Application.pdb
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\EcommerceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\EcommerceApp.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\EcommerceApp.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\EcommerceApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\EcommerceApp.Application.dll
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\refint\EcommerceApp.Application.dll
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\EcommerceApp.Application.pdb
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\ref\EcommerceApp.Application.dll
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\bin\Debug\net8.0\EcommerceApp.Domain.dll
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\bin\Debug\net8.0\EcommerceApp.Domain.pdb
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\EcommerceApp.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dotnet training\dotnetsqlpractice\EcommerceApplication\EcommerceApp.Application\obj\Debug\net8.0\Ecommerc.93288879.Up2Date

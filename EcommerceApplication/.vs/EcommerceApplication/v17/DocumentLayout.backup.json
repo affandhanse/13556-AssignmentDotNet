@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\cartitemfeature\\command\\addcartitem\\addcartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\cartitemfeature\\command\\addcartitem\\addcartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\cartitemfeature\\query\\getcartitems\\getcartitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\cartitemfeature\\query\\getcartitems\\getcartitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\cartitemfeature\\command\\addcartitem\\addcartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\cartitemfeature\\command\\addcartitem\\addcartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\viewmodel\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\viewmodel\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\cartitemfeature\\query\\getcartitems\\getcartitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\cartitemfeature\\query\\getcartitems\\getcartitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.infrastructure\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|solutionrelative:ecommerceapp.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\productfeature\\command\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\productfeature\\command\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\productfeature\\command\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\productfeature\\command\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\productfeature\\command\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\productfeature\\command\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.application\\features\\productfeature\\command\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479F0D10-2884-4236-BC0C-7AE6970CD09B}|EcommerceApp.Application\\EcommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\features\\productfeature\\command\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B03840B-2907-4870-A060-FABF49D8F2E2}|EcommerceApp.Domain\\EcommerceApp.Domain.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B03840B-2907-4870-A060-FABF49D8F2E2}|EcommerceApp.Domain\\EcommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B03840B-2907-4870-A060-FABF49D8F2E2}|EcommerceApp.Domain\\EcommerceApp.Domain.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B03840B-2907-4870-A060-FABF49D8F2E2}|EcommerceApp.Domain\\EcommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.infrastructure\\context\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\context\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.identity\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|solutionrelative:ecommerceapp.identity\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.identity\\configuration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|solutionrelative:ecommerceapp.identity\\configuration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.identity\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|solutionrelative:ecommerceapp.identity\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.identity\\identityserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|solutionrelative:ecommerceapp.identity\\identityserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{076E4EE6-83C4-481B-860D-414DD49F024B}|EcommerceApp.API\\EcommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.identity\\context\\ecommerceappidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|solutionrelative:ecommerceapp.identity\\context\\ecommerceappidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.identity\\migrations\\20250402110632_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB2E5F-A5B4-44CB-9107-D34314220007}|EcommerceApp.Identity\\EcommerceApp.Identity.csproj|solutionrelative:ecommerceapp.identity\\migrations\\20250402110632_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|c:\\users\\user\\desktop\\dotnet training\\dotnetsqlpractice\\ecommerceapplication\\ecommerceapp.infrastructure\\migrations\\20250403072749_newproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD10DA8-8C6A-4ED9-9989-184FD3D86D8F}|EcommerceApp.Infrastructure\\EcommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\migrations\\20250403072749_newproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Middleware\\ExceptionMiddleware.cs*",
+              "RelativeToolTip": "EcommerceApp.API\\Middleware\\ExceptionMiddleware.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:14:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCartItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommandHandler.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:01:17.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.API\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "EcommerceApp.API\\Controllers\\CartItemController.cs",
+              "ViewState": "AgIAAD4AAADAZWZmZmYiwEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:21:10.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCartItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommand.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommand.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\CartItemFeature\\Command\\AddCartItem\\AddCartItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:01:13.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCartItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQuery.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQuery.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQuery.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:30:23.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\ViewModel\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\ViewModel\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\ViewModel\\CartItemViewModel.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\ViewModel\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:18:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCartItemsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\CartItemFeature\\Query\\GetCartItems\\GetCartItemsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:29:08.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:18:43.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Identity\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Services\\AuthService.cs",
+              "RelativeToolTip": "EcommerceApp.Identity\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEAAAAAAhJmZmZn/v0kAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:50:15.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Program.cs",
+              "RelativeToolTip": "EcommerceApp.API\\Program.cs",
+              "ViewState": "AgIAABMAAACAZGZmZmYSwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:07:26.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Infrastructure\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "EcommerceApp.Infrastructure\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAADsAAAAAzMzMzMwkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:55:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:18:49.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EcommerceApp.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB4AAADg/P////8nwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:39:00.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAQZWZmZmY4wBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:17:52.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "EcommerceApp.Application\\Features\\ProductFeature\\Command\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:16:36.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Domain\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Domain\\Entities\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Domain\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "EcommerceApp.Domain\\Entities\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:23:52.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "EcommerceApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:22:00.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250403072749_newProperty.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Migrations\\20250403072749_newProperty.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Infrastructure\\Migrations\\20250403072749_newProperty.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Migrations\\20250403072749_newProperty.cs",
+              "RelativeToolTip": "EcommerceApp.Infrastructure\\Migrations\\20250403072749_newProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:27:49.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceApp.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAC8AAACAy8zMzMwHwDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:24:20.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Context\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Infrastructure\\Context\\EcommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Infrastructure\\Context\\EcommerceDbContext.cs",
+              "RelativeToolTip": "EcommerceApp.Infrastructure\\Context\\EcommerceDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAzMzMzEwYwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:25:11.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Configuration\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Identity\\Configuration\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Configuration\\RoleConfiguration.cs",
+              "RelativeToolTip": "EcommerceApp.Identity\\Configuration\\RoleConfiguration.cs",
+              "ViewState": "AgIAAA0AAACAZWZmZmYswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:43:16.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Identity\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "EcommerceApp.Identity\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAB0AAAAAOjMzMzMHwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:41:31.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Configuration\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Identity\\Configuration\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Configuration\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "EcommerceApp.Identity\\Configuration\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAAAsAAADQZWZmZmY0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:43:38.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.API\\appsettings.json",
+              "RelativeToolTip": "EcommerceApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T11:07:30.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IdentityServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\IdentityServiceRegistration.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Identity\\IdentityServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\IdentityServiceRegistration.cs",
+              "RelativeToolTip": "EcommerceApp.Identity\\IdentityServiceRegistration.cs",
+              "ViewState": "AgIAABwAAACAzMzMzAwrwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:07:16.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ECommerceAppIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Context\\ECommerceAppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Identity\\Context\\ECommerceAppIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Context\\ECommerceAppIdentityDbContext.cs",
+              "RelativeToolTip": "EcommerceApp.Identity\\Context\\ECommerceAppIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:07:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250402110632_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Migrations\\20250402110632_IntialCreate.cs",
+              "RelativeDocumentMoniker": "EcommerceApp.Identity\\Migrations\\20250402110632_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\dotnet training\\dotnetsqlpractice\\EcommerceApplication\\EcommerceApp.Identity\\Migrations\\20250402110632_IntialCreate.cs",
+              "RelativeToolTip": "EcommerceApp.Identity\\Migrations\\20250402110632_IntialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:06:32.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
