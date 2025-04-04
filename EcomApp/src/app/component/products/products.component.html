@@ -1,0 +1,36 @@
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-md-4 mb-4" *ngFor="let product of products">
+      <div class="card h-100 product-card">
+        <div class="product-image-container">
+          <img [src]="product.pictureUrl" class="card-img-top product-image" alt="{{ product.name }}">
+        </div>
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title product-name">{{ product.name }}</h5>
+          <p class="card-text product-description">{{ product.description }}</p>
+          <div class="mt-auto">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+              <span class="badge bg-secondary">{{ product.category?.name }}</span>
+              <span class="text-success"><strong>${{ product.price.toFixed(2) }}</strong></span>
+            </div>
+            <p class="card-text stock-info">
+              <span [class.text-danger]="product.stock < 5" [class.text-warning]="product.stock >= 5 && product.stock < 10">
+                <strong>{{ product.stock }}</strong> in stock
+              </span>
+            </p>
+            <button class="btn btn-primary w-100 add-to-cart-btn" 
+                    (click)="addItemToCart(product.id,1)"
+                    [disabled]="product.stock <= 0">
+              {{ product.stock <= 0 ? 'Out of Stock' : 'Add to Cart' }}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-center mt-4">
+    <button class="btn btn-secondary btn-lg go-to-cart-btn" (click)="goToCart()">
+      <i class="bi bi-cart-fill me-2"></i>View Cart
+    </button>
+  </div>
+</div>
